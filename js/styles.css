@@ -1,0 +1,9 @@
+#box {    
+	background-color: #8ffc85;
+    border-radius: 25px;
+    border: 2px solid #89818A;
+    padding: 20px;
+    width: 700px;
+    height: 240px;
+    margin:20px 300px;
+}
